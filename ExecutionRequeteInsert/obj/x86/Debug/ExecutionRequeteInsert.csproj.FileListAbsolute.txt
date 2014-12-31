@@ -1,0 +1,11 @@
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP4\ExecutionRequeteInsert\ExecutionRequeteInsert\bin\Debug\ExecutionRequeteInsert.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP4\ExecutionRequeteInsert\ExecutionRequeteInsert\bin\Debug\ExecutionRequeteInsert.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP4\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP4\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP4\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP5\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP5\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP6\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP6\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.pdb
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP6\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.exe
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP6\ExecutionRequeteInsert\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.pdb
