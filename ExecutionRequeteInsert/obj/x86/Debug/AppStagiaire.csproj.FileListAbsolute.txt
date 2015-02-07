@@ -1,0 +1,4 @@
+C:\Users\AISSA\Documents\GitHub\TP6-requete-select\ExecutionRequeteInsert\bin\Debug\ExecutionRequeteInsert.exe
+C:\Users\AISSA\Documents\GitHub\TP6-requete-select\ExecutionRequeteInsert\bin\Debug\ExecutionRequeteInsert.pdb
+C:\Users\AISSA\Documents\GitHub\TP6-requete-select\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.exe
+C:\Users\AISSA\Documents\GitHub\TP6-requete-select\ExecutionRequeteInsert\obj\x86\Debug\ExecutionRequeteInsert.pdb
